@@ -8,8 +8,10 @@ Banco de Dados Utilizado : <b>MySQL</b>
 Exemplo de URL para acesso a aplicação: http://localhost:8080/xyinc/poiEndpoint/<METODO_ACESSO>
 
 Métodos de Acesso:
-
--listarPois
--listarPoisProximidade
--cadastrar
+<br/>
+<b>-listarPois</b>
+<br/>
+<b>-listarPoisProximidade</b>
+<br/>
+<b>-cadastrar</b>
 
