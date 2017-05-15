@@ -1,8 +1,9 @@
-# xyinc
+# XY INC
 Projeto fictício XY Inc
-
-O servidor utilizado para o desenvolvimento da aplicação foi o WildFly 10.x
-Banco de Dados Utilizado : MySQL
+<br/>
+Servidor WEB utilizado: <b>WildFly 10.x</b>
+<br/>
+Banco de Dados Utilizado : <b>MySQL</b>
 
 Exemplo de URL para acesso a aplicação: http://localhost:8080/xyinc/poiEndpoint/<METODO_ACESSO>
 
