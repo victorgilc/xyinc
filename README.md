@@ -5,7 +5,18 @@ Servidor WEB utilizado: <b>WildFly 10.x</b>
 <br/>
 Banco de Dados Utilizado : <b>MySQL</b>
 
-Exemplo de URL para acesso a aplicação: http://localhost:8080/xyinc/poiEndpoint/<METODO_ACESSO>
+<code>
+CREATE TABLE poi
+(
+	id int AUTO_INCREMENT primary key,
+	nome varchar(100) not null,
+    coordenada_x int not null,
+    coordenada_y int not null,
+    data_inclusao timestamp not null
+);
+</code>
+
+Exemplo de URL para acesso a aplicação: http://localhost:8080/poiEndpoint/<METODO_ACESSO>
 
 Métodos de Acesso:
 <br/>
