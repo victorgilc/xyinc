@@ -29,9 +29,11 @@ Exemplo de URL para acesso a aplicação: <b>http://localhost:8080/poiEndpoint/<
 <br/><br/>
 Métodos de Acesso:
 <br/>
-<b><ul>listarPois</ul></b>
+<ul>
+<b><li>listarPois</li></b>
 <br/>
 <b>-listarPoisProximidade</b>
 <br/>
 <b>-cadastrar</b>
+</ul>
 
