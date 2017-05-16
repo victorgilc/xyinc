@@ -5,7 +5,7 @@ Servidor WEB utilizado: <b>WildFly 10.x</b>
 <br/>
 Banco de Dados Utilizado : <b>MySQL</b>
 
-<code>
+<i>
 CREATE TABLE poi
 <br/>
 (
@@ -21,7 +21,7 @@ CREATE TABLE poi
     data_inclusao timestamp not null
     <br/>
 );
-</code>
+</i>
 
 Exemplo de URL para acesso a aplicação: http://localhost:8080/poiEndpoint/<METODO_ACESSO>
 
