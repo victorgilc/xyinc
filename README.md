@@ -6,6 +6,8 @@ Servidor WEB utilizado: <b>WildFly 10.x</b>
 Banco de Dados Utilizado : <b>MySQL</b>
 
 <i>
+CREATE DATABASE xyinc;
+<br/><br/>
 CREATE TABLE poi
 <br/>
 (
@@ -22,9 +24,9 @@ CREATE TABLE poi
     <br/>
 );
 </i>
-
+<br/>
 Exemplo de URL para acesso a aplicação: http://localhost:8080/poiEndpoint/<METODO_ACESSO>
-
+<br/>
 Métodos de Acesso:
 <br/>
 <b>-listarPois</b>
