@@ -1,7 +1,7 @@
 # XY INC
 Projeto fictício XY Inc
 
-IDE utilizada: <b>Eclipse Neon 3<b/>
+IDE utilizada: <b>Eclipse Neon 3</b>
 <br/>
 Instale o Loombok para gerar Getters/Setters entre outros!
 <br/>
@@ -29,7 +29,7 @@ CREATE TABLE poi
 );
 </i>
 <br/><br/>
-Exemplo de URL para acesso a aplicação: <b>http://localhost:8080/poiEndpoint/<METODO_ACESSO><b/>
+Exemplo de URL para acesso a aplicação: <b> http://localhost:8080/poiEndpoint/METODO_ACESSO </b>
 <br/><br/>
 Métodos de Acesso:
 <br/><br/>
