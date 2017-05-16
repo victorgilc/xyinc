@@ -7,12 +7,19 @@ Banco de Dados Utilizado : <b>MySQL</b>
 
 <code>
 CREATE TABLE poi
+<br/>
 (
-	id int AUTO_INCREMENT primary key,
-	nome varchar(100) not null,
+<br/>
+    id int AUTO_INCREMENT primary key,
+    <br/>
+    nome varchar(100) not null,
+    <br/>
     coordenada_x int not null,
+    <br/>
     coordenada_y int not null,
+    <br/>
     data_inclusao timestamp not null
+    <br/>
 );
 </code>
 
