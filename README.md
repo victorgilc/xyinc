@@ -1,5 +1,9 @@
 # XY INC
 Projeto fictício XY Inc
+
+IDE utilizada: <b>Eclipse Neon 3<b/>
+<br/>
+Instale o Loombok para gerar Getters/Setters entre outros!
 <br/>
 Servidor WEB utilizado: <b>WildFly 10.x</b>
 <br/>
