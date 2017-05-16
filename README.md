@@ -25,10 +25,10 @@ CREATE TABLE poi
 );
 </i>
 <br/><br/>
-Exemplo de URL para acesso a aplicação: <b>http://localhost:8080/poiEndpoint/<METODO_ACESSO></b>
+Exemplo de URL para acesso a aplicação: <b>http://localhost:8080/poiEndpoint/<METODO_ACESSO><b/>
 <br/><br/>
 Métodos de Acesso:
-<br/>
+<br/><br/>
 <ul>
 <li>listarPois</li>
 <br/>
