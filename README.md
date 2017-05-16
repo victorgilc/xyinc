@@ -24,9 +24,9 @@ CREATE TABLE poi
     <br/>
 );
 </i>
-<br/>
-Exemplo de URL para acesso a aplicação: http://localhost:8080/poiEndpoint/<METODO_ACESSO>
-<br/>
+<br/><br/>
+Exemplo de URL para acesso a aplicação: <b>http://localhost:8080/poiEndpoint/<i><METODO_ACESSO><i/><b/>
+<br/><br/>
 Métodos de Acesso:
 <br/>
 <b>-listarPois</b>
