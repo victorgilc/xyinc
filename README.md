@@ -1,9 +1,13 @@
 # XY INC
 Projeto fictício XY Inc
-
+<br/><br/>
+Versão do Java: <b>8</b>
+<br/>
 IDE utilizada: <b>Eclipse Neon 3</b>
 <br/>
-Instale o Loombok para gerar Getters/Setters entre outros!
+Instale o Loombok para gerar Getters/Setters!
+<br/>
+Instale o Maven para resolução das dependências
 <br/>
 Servidor WEB utilizado: <b>WildFly 10.x</b>
 <br/>
